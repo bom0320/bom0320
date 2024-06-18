@@ -28,12 +28,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/](https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/)
 
-- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/](https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/)
-
-- What I'm promoting is **https://litt.ly/taetaehee**
-
-- 📫 How to reach me **s24054@gsm.hs.kr**
+-  How to reach me :envelope_with_arrow:  **s24040@gsm.hs.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
