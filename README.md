@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/b0m_0320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data.hea" height="30" width="40" /></a>
-<a href="https://discord.gg/tx2._hee00_" target="blank"><img align="center" alt="tx2._hee00_" height="30" width="40" /></a>
+<a href="https://discord.gg/tx2._hee00_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tx2._hee00_" height="30" width="40" /></a>
 </p>
 https://namu.wiki/w/JavaScript
 <h3 align="left">Things I'm Studying:</h3>
