@@ -28,7 +28,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/](https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/)
+- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/]
 
 -  How to reach me :envelope_with_arrow:  **s24040@gsm.hs.kr**
 
