@@ -29,6 +29,11 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/](https://www.linkedin.com/in/%ED%83%9C%ED%9D%AC-%ED%97%88-110a91303/)
+
+- What I'm promoting is **https://litt.ly/taetaehee**
+
+- 📫 How to reach me **s24054@gsm.hs.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
