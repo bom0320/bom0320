@@ -35,7 +35,6 @@
 <a href="https://www.instagram.com/b0m_0320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data.hea" height="30" width="40" /></a>
 <a href="https://discord.gg/kimbom0580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kimbom0580" height="30" width="40" /></a>
 </p>
-https://namu.wiki/w/JavaScript
 <h3 align="left">Things I'm Studying:</h3>
-<p align="left">
+<p align="left"> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7OrtM7FfDgFfgOmRqL4R__bU5cjx1ltwy1A&s" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferre"> <img src="https://t1.daumcdn.net/cfile/tistory/99C5C133599E399F09?original" alt="java" width="40" height="40"/> </a> <a href=https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"" target="_blank" rel="noreferrer"> <img src="https://i.namu.wiki/i/KcqDuQYTxNpUcLIMZTg28QXse0XiWx1G7K68kYYCo1GuhoHmhB_V8Qe9odGGt0BH9-0nQZTN53WXTNpDmwVfWQ.svg" alt="C" width="40" height="40"/> </a> </p>
