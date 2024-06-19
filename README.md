@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm KimBom, GSM student from <img src="https://i.namu.wiki/i/XgGAKr0hjzvd-CZP4nPEHxUgoKI0qYiWCDVfXhgYU5-C8P9k6lMKgDz96ZnrMhq5eV11ok0Jh7TIEzSgzJV58cPcPrRMj7PIuEmw-d-QEcMSc7ZCebYMQsH6xNDKYNAqL2lMEhcFnArUmEriYeR2cA.svg" width="13"/> <b>South, Korea</b>,I am currently studying the frontend and plan to study the backend as well.</p>
-<h3>Things I will Code</h3>
+<h3>Things I will study</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
