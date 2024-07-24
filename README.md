@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm KimBom, GSM student from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/225px-Flag_of_South_Korea.svg.png" width="13"/> <b>South, Korea</b>,I am currently studying the frontend and plan to study the backend as well.</p>
+<p>Welcome to my page! </br> I'm KimBom, GanjuSoftwareMasterHighschool student from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/225px-Flag_of_South_Korea.svg.png" width="13"/> <b>South, Korea</b>,I am currently studying the frontend and plan to study the backend as well.</p>
 <h3>Things I will study:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
