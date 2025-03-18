@@ -11,7 +11,6 @@
 </p>
 
 
-- Linkedin :four_leaf_clover:  [https://www.linkedin.com/in/%EB%B4%84-%EA%B9%80-8297b5313/]
 - How to reach me :envelope_with_arrow:  [**s24040@gsm.hs.kr**]
 - **velog 📗** [https://velog.io/@bom_0320/posts]
 
