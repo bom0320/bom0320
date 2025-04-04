@@ -12,10 +12,6 @@
 </p>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bom0320&show_icons=true&theme=gotham" />
-
-- How to reach me :envelope_with_arrow:  [**s24040@gsm.hs.kr**]
-- **velog 📗** [https://velog.io/@bom_0320/posts]
-
   
 <h3 align="left">📭 Connect with me:</h3>
 <p align="left">
