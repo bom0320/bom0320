@@ -30,5 +30,6 @@
  <h3 >🪄 Blog </h3>
 <p>가장 최신 글 보러가기<p>
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark)](https://velog.io/@zaman17)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bom_0320&color=dark)](https://velog.io/@bom_0320/posts)
+
 
