@@ -18,8 +18,13 @@
   
 <h3 align="left">📭 Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/b0m_0320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data.hea" height="30" width="40" /></a>
-<a href="https://discord.gg/kimbom0580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kimbom0580" height="30" width="40" /></a>
+<a href="https://www.instagram.com/b0m_0320/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/b0m_0320/"/>
+</a>
+<a href="s24040@gsm.hs.kr">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a>
+
 </p>
 
  <h3 >🪄 Blog </h3>
