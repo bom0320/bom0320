@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
 </p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bom0320&show_icons=true&theme=gotham" />
+
   
 <h3 align="left">📭 Connect with me:</h3>
 <p align="left">
