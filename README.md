@@ -102,7 +102,7 @@
     <img
       src="https://kimbom.dev/opengraph-image.png"
       alt="Bom Kim Frontend Portfolio"
-      width="700"
+      width="500"
     />
   </a>
 </p>
