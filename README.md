@@ -8,54 +8,6 @@
   사람이 정의한 목표를 안전하고 검증 가능한 실행으로 연결하는 방법을 탐구하고 있습니다.
 </p>
 
-<h3>Primary Languages & Tools</h3>
-
-<p>
-  <img
-    alt="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-  />
-  <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
-  />
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"
-  />
-  <img
-    alt="React Native"
-    src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"
-  />
-
-  <br />
-
-  <img
-    alt="Next.js"
-    src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"
-  />
-  <img
-    alt="TanStack Query"
-    src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"
-  />
-  <img
-    alt="Zustand"
-    src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white"
-  />
-  <img
-    alt="SCSS"
-    src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"
-  />
-  <img
-    alt="Tailwind CSS"
-    src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"
-  />
-  <img
-    alt="GSAP"
-    src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black"
-  />
-</p>
-
 <h3>What I'm Building</h3>
 
 <p>
@@ -82,6 +34,80 @@
       src="https://img.shields.io/badge/Building%20·%20ai--workspace-181717?style=for-the-badge&logo=github&logoColor=white"
       height="42"
     />
+  </a>
+</p>
+
+<h4>Related Notes</h4>
+
+<ul>
+  <li>
+    <strong>Architecture</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/AI%20Workspace%20Architecture.md">
+          AI Workspace Architecture
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%A7%81%EC%A0%91%20%EA%B5%AC%EC%B6%95%20vs%20Agent%20Framework%20%EB%8F%84%EC%9E%85%20%EA%B8%B0%EC%A4%80.md">
+          워크플로우 직접 구축 vs Agent Framework 도입 기준
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Planning</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/v1%20%E2%80%94%20Goal-to-Task%20Planning.md">
+          v1 — Goal-to-Task Planning
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/Planning%20%26%20Execution%EC%9D%98%20%EC%A2%85%EB%A3%8C%20%EC%B2%98%EB%A6%AC%20%EC%B0%A8%EC%9D%B4.md">
+          Planning & Execution의 종료 처리 차이
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Execution</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/%20AI%20Workspace%20Task%20Execution%20Flow%EC%99%80%20ExecutionState.md">
+          Task Execution Flow와 ExecutionState
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/Execution%20Artifact%EC%99%80%20%EC%A0%84%EC%B2%B4%20%EC%8B%A4%ED%96%89%20%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%A0%95%EB%A6%AC.md">
+          Execution Artifact와 전체 실행 플로우
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/AI%20Workspace%EC%9D%98%20Command%20Runner%EC%99%80%20Process%20Lifecycle.md">
+          Command Runner와 Process Lifecycle
+        </a>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Troubleshooting</strong>
+    <ul>
+      <li>
+        <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/troubleShooting/v1%20E2E%20Troubleshooting.md">
+          v1 E2E Troubleshooting
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>
+  <a href="https://github.com/bom0320/TIL_2026/tree/main/Projects/ai-workspace">
+    → View all ai-workspace notes
   </a>
 </p>
 
