@@ -98,7 +98,7 @@
     <ul>
       <li>
         <a href="https://github.com/bom0320/TIL_2026/blob/main/Projects/ai-workspace/troubleShooting/v1%20E2E%20Troubleshooting.md">
-          v1 E2E Troubleshooting
+          v1 E2E Latency Troubleshooting — E2E 실행 시간 약 55% 단축
         </a>
       </li>
     </ul>
