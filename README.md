@@ -3,12 +3,12 @@
 </h1>
 
 <p>
-  사용자 경험과 인터랙션의 디테일을 고민하는 프론트엔드 개발자입니다.<br />
-  실제 사용자가 있는 서비스를 개발하며 화면의 디테일뿐 아니라 상태 관리,
-  API 흐름, 사용자 행동까지 함께 고민해왔습니다.
+  사용자 경험, 상태와 데이터 흐름, 구조 설계를 함께 고민하며 제품을 만드는 프론트엔드 개발자입니다.<br />
+  최근에는 AI Agent와 개발 Harness를 직접 설계하며,
+  사람이 정의한 목표를 안전하고 검증 가능한 실행으로 연결하는 방법을 탐구하고 있습니다.
 </p>
 
-<h3>Languages and Tools</h3>
+<h3>Primary Languages & Tools</h3>
 
 <p>
   <img
@@ -54,6 +54,35 @@
     alt="GSAP"
     src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black"
   />
+</p>
+
+<h3>What I'm Building</h3>
+
+<p>
+  요즘은 <strong>Human이 목표를 제시하면 여러 전문 AI Agent가 각자의 관점에서 독립적으로 판단하고,
+  토론과 검증을 통해 의견 차이를 좁힌 뒤 하나의 설명 가능한 결론을 만들어내는 개발 협업 Harness</strong>를 만들고 있습니다.
+</p>
+
+<p>
+  각 Agent의 판단을 단순히 따르는 것이 아니라,
+  결정 근거와 trade-off, 검증 결과를 종합해
+  <strong>CEO Agent가 Human에게 하나의 결론으로 보고하는 구조</strong>를 목표로 합니다.
+</p>
+
+<p>
+  현재는 그 기반이 되는
+  <strong>Goal-to-Task Planning · Safe Execution · Verification · Evidence · Adaptive Planning</strong>
+  을 구현하고 있습니다.
+</p>
+
+<p>
+  <a href="https://github.com/bom0320/ai-workspace">
+    <img
+      alt="ai-workspace"
+      src="https://img.shields.io/badge/Building%20·%20ai--workspace-181717?style=for-the-badge&logo=github&logoColor=white"
+      height="42"
+    />
+  </a>
 </p>
 
 <h3>Links</h3>
